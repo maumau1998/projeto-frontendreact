@@ -1,0 +1,62 @@
+[
+    {
+        "id": "001",
+        "name": "Capacete",
+        "value": ["R$",100],
+        "imageUrl":"https://www.pngkey.com/png/detail/439-4396690_space-helmet-png-download.png"
+      },
+      {
+        "id": "002",
+        "name": "Luvas",
+        "value": ["R$",250],
+        "imageUrl":"https://th.bing.com/th/id/OIP.0TqApt8s2j30vX2ietvHwQHaI7?pid=ImgDet&rs=1"
+      },
+      {
+        "id": "003",
+        "name": "Traje Laranja",
+        "value": ["R$",400],
+        "imageUrl":"https://media.istockphoto.com/photos/astronaut-wearing-space-suit-standing-against-white-background-picture-id501534869?k=6&m=501534869&s=170667a&w=0&h=a40KfkbczCYoJA-ykqda2sJNBff9OA9EMu5N9xkB-ew="
+      },
+      {
+        "id": "004",
+        "name":"Traje Azul",
+        "value": ["R$",50],
+        "imageUrl":"https://media.istockphoto.com/photos/blue-astronaut-isolated-picture-id1205789642?k=6&m=1205789642&s=170667a&w=0&h=TXxGOdQeiPw5TltDc-5aAy8s949dmpVuWzhL4-EEvjY=" 
+      },
+      {
+        "id": "005",
+        "name":"Traje Branco",
+        "value": ["R$",80],
+        "imageUrl":"https://static.turbosquid.com/Preview/2015/05/21__12_55_49/Russian_Space_Suit_Sokol_KV2_36001.jpgebcc0607-d6d2-4121-b6dc-c04cc68e2f95DefaultHQ-1.jpg"
+      },
+      {
+        "id": "006",
+        "name":"Estátua",
+        "value": ["R$",170],
+        "imageUrl":"https://i.etsystatic.com/25094028/r/il/52df8f/2793051717/il_1140xN.2793051717_ifsk.jpg"
+      },
+      {
+        "id": "007",
+        "name":"Mochila",
+        "value": ["R$",30],
+        "imageUrl":"https://i.pinimg.com/originals/7d/67/d9/7d67d975f88eba0f92ad03da42b61c6e.jpg"
+      },
+      {
+        "id": "008",
+        "name":"Botas",
+        "value": ["R$",450],
+        "imageUrl":"https://images.kidscostume.org/l-m/child-astronaut-boots-astronaut-space-nasa-boot.jpg"
+      },
+      {
+        "id": "009",
+        "name":"Pingente",
+        "value": ["R$",110],
+        "imageUrl":"https://img.elo7.com.br/product/zoom/33D9DEE/pingente-astronauta-banhada-a-prata-para-pandora-minnie.jpg"
+      },
+      {
+        "id": "010",
+        "name":"Boneco",
+        "value":["R$",850],
+        "imageUrl":"https://www.simbadusa.se/images/2.69235/kid-min-forsta-robot-med-ljud-och-ljus.jpeg"
+      }
+]
