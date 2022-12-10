@@ -29,5 +29,5 @@ Possui um formulário para os dados do cliente que irá receber o produto, e as 
 Olá, me chamo Mauricio! sou apaixonado por Programação e Pentest 😍
 
 ## Links
-https://www.linkedin.com/in/maur%C3%ADcio-leite-silva-aa375b16a/
-https://github.com/maumau1998
+linkedin : https://www.linkedin.com/in/maur%C3%ADcio-leite-silva-aa375b16a/ <br>
+github : https://github.com/maumau1998
