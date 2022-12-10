@@ -1,0 +1,62 @@
+[
+    {
+        "id": "001",
+        "name": "Capacete",
+        "value": ["R$",100],
+        "imageUrl":"./img/imagem01.png"
+      },
+      {
+        "id": "002",
+        "name": "Luvas",
+        "value": ["R$",250],
+        "imageUrl":"./img/imagem02.png"
+      },
+      {
+        "id": "003",
+        "name": "Traje Laranja",
+        "value": ["R$",400],
+        "imageUrl":"./img/imagem03.png"
+      },
+      {
+        "id": "004",
+        "name":"Traje Azul",
+        "value": ["R$",50],
+        "imageUrl":"./img/imagem04.png" 
+      },
+      {
+        "id": "005",
+        "name":"Traje Branco",
+        "value": ["R$",80],
+        "imageUrl":"./img/imagem05.png"
+      },
+      {
+        "id": "006",
+        "name":"Estátua",
+        "value": ["R$",170],
+        "imageUrl":"./img/imagem06.png"
+      },
+      {
+        "id": "007",
+        "name":"Mochila",
+        "value": ["R$",30],
+        "imageUrl":"./img/imagem07.png"
+      },
+      {
+        "id": "008",
+        "name":"Botas",
+        "value": ["R$",450],
+        "imageUrl":"./img/imagem08.png"
+      },
+      {
+        "id": "009",
+        "name":"Pingente",
+        "value": ["R$",110],
+        "imageUrl":"./img/imagem09.png"
+      },
+      {
+        "id": "010",
+        "name":"Boneco",
+        "value":["R$",850],
+        "imageUrl":"./img/imagem10.png"
+      }
+]
